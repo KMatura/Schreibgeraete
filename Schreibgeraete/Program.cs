@@ -27,7 +27,7 @@ namespace Schreibgeraete
                 item.SchreibeText(Sätze[Satz], item.Farbe);
             }
             Console.ReadKey();
-            //test
+            //testj
         }
     }
 }
